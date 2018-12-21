@@ -1,0 +1,6 @@
+D:\Data\Amaan\Documents\Visual Studio 2015\Projects\FileManagement\SchoolTest\bin\Debug\SchoolTest.exe.config
+D:\Data\Amaan\Documents\Visual Studio 2015\Projects\FileManagement\SchoolTest\bin\Debug\SchoolTest.exe
+D:\Data\Amaan\Documents\Visual Studio 2015\Projects\FileManagement\SchoolTest\bin\Debug\SchoolTest.pdb
+D:\Data\Amaan\Documents\Visual Studio 2015\Projects\FileManagement\SchoolTest\obj\Debug\SchoolTest.exe
+D:\Data\Amaan\Documents\Visual Studio 2015\Projects\FileManagement\SchoolTest\obj\Debug\SchoolTest.pdb
+D:\Data\Amaan\Documents\Visual Studio 2015\Projects\FileManagement\SchoolTest\obj\Debug\SchoolTest.csprojResolveAssemblyReference.cache
